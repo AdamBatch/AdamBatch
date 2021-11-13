@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdamBatch
 - 👀 I’m interested in data science, engineering and visualization
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and java script
 - 💞️ I’m looking to collaborate on anything and everything
 - 📫 How to reach me: email to adam.batchellor@gmail.com
 
